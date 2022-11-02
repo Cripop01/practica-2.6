@@ -1,0 +1,12 @@
+:root {
+    --color-fondo: crimson;
+    --color-titulo: white;
+    --color-purpura: purple;
+    --color-fin: orange;
+}
+
+body {
+    background-color: var(--color-fondo);
+    font-style: arial;
+    color: coral;
+}
